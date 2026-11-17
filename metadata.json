@@ -1,0 +1,8 @@
+{
+  "name": "The Hollow Ward",
+  "description": "A first-person 3D survival horror game. Recover five breaker fuses and escape the subterranean ward before the Watcher finds you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
